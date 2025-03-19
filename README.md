@@ -1,11 +1,10 @@
-<<<<<<< HEAD
-# hello-hego
-=======
-# Theme Name
+# hello-hugo
 
 ## Features
 
 ## Installation
 
+~~~ sh
+git submodule add https://github.com/mrckarlsson/hello-hugo.git
+~~~
 ## Configuration
->>>>>>> c529ca8 (git init)
